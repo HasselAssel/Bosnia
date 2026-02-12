@@ -1,0 +1,15 @@
+{
+    "description": {
+        "identifier": "bosnia:ignore_air"
+    },
+    "processors": [
+        {
+        "processor_type": "minecraft:block_ignore",
+        "blocks": [
+            { "Name": "minecraft:air" },
+            { "Name": "minecraft:cave_air" },
+            { "Name": "minecraft:void_air" }
+        ]
+        }
+    ]
+}

@@ -1,0 +1,13 @@
+{
+  "structures": [
+    { "structure": "bosnia:land_mine", "weight": 4 },
+    { "structure": "bosnia:land_mine_evil", "weight": 1 }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 1,
+    "separation": 0,
+    "salt": 69,
+    "spread_type": "linear"
+  }
+}

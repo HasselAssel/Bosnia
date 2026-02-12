@@ -1,0 +1,21 @@
+{
+  "pack": {
+    "description": [
+      {"text":"\u2620","italic":true,"color":"dark_red"},
+      {"text":"\u26a0","color":"dark_red"},
+      {"text":"B","bold":true,"underlined":true,"color":"dark_blue"},
+      {"text":"O","bold":true,"underlined":true,"color":"yellow"},
+      {"text":"S","bold":true,"underlined":true,"color":"dark_blue"},
+      {"text":"N","bold":true,"underlined":true,"color":"yellow"},
+      {"text":"I","bold":true,"underlined":true,"color":"dark_blue"},
+      {"text":"A","bold":true,"underlined":true,"color":"yellow"},
+      {"text":"\u26a0","color":"dark_red"},
+      {"text":"\u2620","italic":true,"color":"dark_red"},
+      {"text":" is ","color":"aqua"},
+      {"text":"NOT","bold":true,"color":"dark_red"},
+      {"text":" for everyone","color":"aqua"}
+    ],
+    "min_format": [88, 1],
+    "max_format": [94, 1]
+  }
+}
